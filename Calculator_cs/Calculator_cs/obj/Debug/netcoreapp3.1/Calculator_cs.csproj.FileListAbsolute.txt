@@ -1,0 +1,15 @@
+C:\Users\nov lud\source\repos\Calculator_cs\Calculator_cs\bin\Debug\netcoreapp3.1\Calculator_cs.exe
+C:\Users\nov lud\source\repos\Calculator_cs\Calculator_cs\bin\Debug\netcoreapp3.1\Calculator_cs.deps.json
+C:\Users\nov lud\source\repos\Calculator_cs\Calculator_cs\bin\Debug\netcoreapp3.1\Calculator_cs.runtimeconfig.json
+C:\Users\nov lud\source\repos\Calculator_cs\Calculator_cs\bin\Debug\netcoreapp3.1\Calculator_cs.runtimeconfig.dev.json
+C:\Users\nov lud\source\repos\Calculator_cs\Calculator_cs\bin\Debug\netcoreapp3.1\Calculator_cs.dll
+C:\Users\nov lud\source\repos\Calculator_cs\Calculator_cs\bin\Debug\netcoreapp3.1\Calculator_cs.pdb
+C:\Users\nov lud\source\repos\Calculator_cs\Calculator_cs\obj\Debug\netcoreapp3.1\Calculator_cs.csprojAssemblyReference.cache
+C:\Users\nov lud\source\repos\Calculator_cs\Calculator_cs\obj\Debug\netcoreapp3.1\Calculator_cs.Form1.resources
+C:\Users\nov lud\source\repos\Calculator_cs\Calculator_cs\obj\Debug\netcoreapp3.1\Calculator_cs.csproj.GenerateResource.cache
+C:\Users\nov lud\source\repos\Calculator_cs\Calculator_cs\obj\Debug\netcoreapp3.1\Calculator_cs.AssemblyInfoInputs.cache
+C:\Users\nov lud\source\repos\Calculator_cs\Calculator_cs\obj\Debug\netcoreapp3.1\Calculator_cs.AssemblyInfo.cs
+C:\Users\nov lud\source\repos\Calculator_cs\Calculator_cs\obj\Debug\netcoreapp3.1\Calculator_cs.csproj.CoreCompileInputs.cache
+C:\Users\nov lud\source\repos\Calculator_cs\Calculator_cs\obj\Debug\netcoreapp3.1\Calculator_cs.dll
+C:\Users\nov lud\source\repos\Calculator_cs\Calculator_cs\obj\Debug\netcoreapp3.1\Calculator_cs.pdb
+C:\Users\nov lud\source\repos\Calculator_cs\Calculator_cs\obj\Debug\netcoreapp3.1\Calculator_cs.genruntimeconfig.cache
